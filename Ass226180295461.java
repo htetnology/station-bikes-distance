@@ -1,10 +1,8 @@
 /* 
-Thinzar Htet 180295461
-
 Some things to note:
 1. All .csv files are to be in the same folder as the .java file
 2. To run the program, type in this order: java Ass226180295461 stations stations_lon_lat randomGraph
- */
+*/
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
