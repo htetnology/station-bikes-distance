@@ -5,7 +5,9 @@ As per coursework requirements, the class files displays the required shortest d
 
 ## Screenshot of program 
 
+![zar output co2226 cw2](https://user-images.githubusercontent.com/55747927/94566169-a1f0d200-029c-11eb-8b9c-cfd1d4e17ed1.jpg)
 
+Note: execution time will vary for different users 
 
 
 
